@@ -23,6 +23,15 @@ Windows: Download the **A_algorithm.exe** from the repository and launch the fil
 - Run the python script
 
 ---
+### Instructions
+
+- Right click on your mouse on any position on the grid to set your source node, a second click sets your destination node.
+- After your source and destination node have been set, consequent right clicks sets up barriers on the grid.
+- Press the **Space bar** button on your keyboard to start the algorithm.
+- Press C to clear the screen.
+
+
+---
 ### Prerequisite
 
 Python => 3.0
