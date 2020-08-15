@@ -34,7 +34,7 @@ Windows: Download the **A_algorithm.exe** from the repository and launch the fil
 ---
 ### Prerequisite
 
-Python => 3.0
+Python => 3.5
 
 ---
 
