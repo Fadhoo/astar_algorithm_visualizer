@@ -6,3 +6,8 @@ A star algorithm is a searching algorithm that searches for the shortest path be
 
 This code visualizes how a computer computes the A star pathfinding algorithm in real-time using pygame. 
 
+---
+
+## Contributors
+
+- Fadipe Al-Ameen O. <fadipetomi00@gmail.com>
