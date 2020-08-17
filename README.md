@@ -2,7 +2,7 @@
 
 **Version 1.1.0**
 
-A star algorithm is a searching algorithm that searches for the shortest path between the initial and the final state. It is used in various applications, such as maps.
+A star algorithm is a pathfinding algorithm that searches for the shortest path between the initial and the final position. It is used in various applications, such as maps.
 
 This code visualizes how a computer computes the A star pathfinding algorithm in real-time using pygame. 
 
@@ -34,7 +34,7 @@ Windows: Download the **A_algorithm.exe** from the repository and launch the fil
 ---
 ### Prerequisite
 
-Python => 3.5
+Python >= 3.5
 
 ---
 
